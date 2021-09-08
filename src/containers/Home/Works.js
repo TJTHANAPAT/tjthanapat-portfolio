@@ -3,7 +3,7 @@ import React from 'react';
 
 const Works = () => {
   return (
-    <div id="work" className="max-w-screen-lg m-auto px-12 py-24">
+    <div id="works" className="max-w-screen-lg m-auto px-12 py-24">
       <h2 className="text-2xl font-bold">WORKS</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-5">
         <WorkCard
