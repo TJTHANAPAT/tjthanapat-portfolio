@@ -13,7 +13,7 @@ const Works = () => {
             title: 'Rhohit',
             year: 2021,
             desc: 'Rhohit is a platform to track your blood donation. The aim is to encourage people to donate their blood. It won the Best Excecutive Award of Young Webmaster Camp 18.',
-            img: '/assets/Rhohit.png',
+            img: '/tjthanapat-portfolio/assets/Rhohit.png',
             link: 'https://ywc18-workshop-c.netlify.app/',
             githubRepoLink: 'https://github.com/WebmasterCamp/ywc18-workshop-c'
         }}
@@ -23,7 +23,7 @@ const Works = () => {
             title: 'Light Up SSP',
             year: 2019,
             desc: "Light Up SSP is a website for registration in the careers and university guidance event at Streesmutprakan School.",
-            img: '/assets/LightUpSSP.png',
+            img: '/tjthanapat-portfolio/assets/LightUpSSP.png',
             link: 'https://lightupssp.web.app/',
             githubRepoLink: 'https://github.com/TJTHANAPAT/light-up-the-project'
 
@@ -34,7 +34,7 @@ const Works = () => {
             title: 'After Die',
             year: 2017,
             desc: 'After Die is a platform to organize and customize a funeral. It won the Winner Prize of Junior Webmaster Camp X.',
-            img: '/assets/AfterDie.png',
+            img: '/tjthanapat-portfolio/assets/AfterDie.png',
             link: 'https://dionisus.jwc.in.th/',
           }}
         />
@@ -48,9 +48,10 @@ const Works = () => {
 const WorkCard = props => {
   const { img, title, year, desc, link, githubRepoLink } = props.work;
   return (
-    <div className="bg-white rounded-lg shadow-lg">
+    <div className="bg-white rounded-lg shadow-lg mb-5">
       <img
         src={img}
+        alt={title}
         style={{ height: '12rem' }}
         className="rounded-lg bg-orange-400 object-cover w-full "
       />

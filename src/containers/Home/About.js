@@ -17,7 +17,7 @@ const About = () => {
             school={{
               level: 'Primary School',
               name: 'St.Raphael School, Thailand',
-              startYear: 2004,
+              startYear: 2008,
               graduateYear: 2013,
             }}
           />

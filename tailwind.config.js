@@ -2,13 +2,13 @@ module.exports = {
   purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    // fontFamily: {
-    //   display: ["Prompt"],
-    //   body: ["Prompt"],
-    // },
+    fontFamily: {
+      display: ['Roboto'],
+      body: ['Roboto'],
+    },
     extend: {
       colors: {
-        'orange': {
+        orange: {
           DEFAULT: '#FF961D',
           50: '#FFFFFF',
           100: '#FFF5E9',

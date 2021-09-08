@@ -54,7 +54,7 @@ const Home = () => {
               </div>
             </div>
             <div style={{ maxWidth: '400px' }} className="">
-              <img src="/assets/tjthanapat.png" alt="tjthanapat" />
+              <img src="/tjthanapat-portfolio/assets/tjthanapat.png" alt="tjthanapat" />
             </div>
           </div>
         </div>
