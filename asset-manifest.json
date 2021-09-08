@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tjthanapat-portfolio/static/css/main.a60b19c5.chunk.css",
-    "main.js": "/tjthanapat-portfolio/static/js/main.53afa452.chunk.js",
-    "main.js.map": "/tjthanapat-portfolio/static/js/main.53afa452.chunk.js.map",
+    "main.js": "/tjthanapat-portfolio/static/js/main.45989f8e.chunk.js",
+    "main.js.map": "/tjthanapat-portfolio/static/js/main.45989f8e.chunk.js.map",
     "runtime-main.js": "/tjthanapat-portfolio/static/js/runtime-main.cc63973a.js",
     "runtime-main.js.map": "/tjthanapat-portfolio/static/js/runtime-main.cc63973a.js.map",
     "static/js/2.619fb465.chunk.js": "/tjthanapat-portfolio/static/js/2.619fb465.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.cc63973a.js",
     "static/js/2.619fb465.chunk.js",
     "static/css/main.a60b19c5.chunk.css",
-    "static/js/main.53afa452.chunk.js"
+    "static/js/main.45989f8e.chunk.js"
   ]
 }
