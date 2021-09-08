@@ -39,14 +39,22 @@ const Home = () => {
                 Know Me More
               </Button>
               <div className="mt-12">
-                <EmailIcon color="primary" className="mr-3" />
-                <FacebookIcon color="primary" className="mr-3" />
-                <InstagramIcon color="primary" className="mr-3" />
-                <GitHubIcon color="primary" className="mr-3" />
+                <a href="mailto: thanapat-ja@hotmail.com" className="mr-3">
+                  <EmailIcon color="primary" />
+                </a>
+                <a href="https://www.facebook.com/thanapat.teerarattanyu" className="mr-3">
+                  <FacebookIcon color="primary" />
+                </a>
+                <a href="https://www.instagram.com/tj.thanapat/" className="mr-3">
+                  <InstagramIcon color="primary" />
+                </a>
+                <a href="https://github.com/TJTHANAPAT" className="mr-3">
+                  <GitHubIcon color="primary" />
+                </a>
               </div>
             </div>
             <div style={{ maxWidth: '400px' }} className="">
-              <img src="/assets/tjthanapat_bw.png" alt="tjthanapat" />
+              <img src="/assets/tjthanapat.png" alt="tjthanapat" />
             </div>
           </div>
         </div>
