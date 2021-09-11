@@ -36,7 +36,7 @@ const Home = () => {
                 component="a"
                 href="#content"
               >
-                Know Me More
+                Know More About Me
               </Button>
               <div className="mt-12">
                 <a href="mailto: thanapat-ja@hotmail.com" className="mr-3">
