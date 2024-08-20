@@ -1,0 +1,14 @@
+.hero-button {
+  display: inline-block;
+  padding-bottom: 8px;
+  text-decoration: none;
+  background-image: linear-gradient(#fb923c, #fb923c), linear-gradient(#fff, #fff);
+  background-size: 0 5px, auto;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  transition: all .2s ease-out;
+}
+
+.hero-button:hover {
+  background-size: 100% 5px, auto;
+}
